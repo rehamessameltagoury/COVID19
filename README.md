@@ -1,5 +1,5 @@
 # COVID19
-Data analysis of India coronavirus' cases ana predicting the rise of the virus using Prophet.
+Data analysis of India coronavirus' cases and predicting the rise of the virus using Prophet.
 
 # Libraries:
        * pandas 
@@ -7,4 +7,5 @@ Data analysis of India coronavirus' cases ana predicting the rise of the virus u
        * seaborn 
        * plotly
        * folium
+       * Prophet
 
